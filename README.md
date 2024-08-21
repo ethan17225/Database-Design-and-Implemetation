@@ -8,7 +8,7 @@
 - The project was given a lot of compliments from students and the professor
 - We were given the maximum grades for this project which took up 25% of the final grade
 
-* Skills:
+*Skills:
 - Database design and implementation
 - Communication
 - Teamwork
