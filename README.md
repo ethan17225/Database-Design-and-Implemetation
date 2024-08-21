@@ -4,11 +4,11 @@
 - After that, we started to develop SQL and noSQL queries to create the databases and insert data into them
 - Finally, we developed SQL queries to retrieve data based on the 6 given frameworks
 
-*Result:
+# Result:
 - The project was given a lot of compliments from students and the professor
 - We were given the maximum grades for this project which took up 25% of the final grade
 
-*Skills:
+# Skills:
 - Database design and implementation
 - Communication
 - Teamwork
