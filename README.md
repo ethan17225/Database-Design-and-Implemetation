@@ -21,7 +21,7 @@
 - We were given the maximum grades for this project which took up 25% of the final grade
 
 # Skills:
-- Database design and implementation
+- Database design and implementation: SQL, NoSQL, EER model, Relational Diagram
 - Communication
 - Teamwork
 - Presentation
